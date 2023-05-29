@@ -16,7 +16,7 @@ class Config(object):
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://te.legra.ph/file/40eb1ed850cdea274693e.jpg"
 
-    SUPPORT_CHAT = "Mirchimusic123"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "OFFICIALBOT_SUPPORT"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = "6228294682:AAElZbOtQOsJ8NHM4mr2RxWNTITQWw2gwrw"  # Get bot token from @BotFather on Telegram
 
